@@ -1,7 +1,7 @@
 # Yiying_Liu_Portfolio
 This is my public porfolio for the Telling Stories with Data class at CMU!
 
-#About me
+# About me
 Hello! My name is Yiying Liu. I am heading to the second year MSPPM program. I plan to do a job with analysis and data when I graduate, whcih is the trend today. 
 
 #**What I hope to learn**  
