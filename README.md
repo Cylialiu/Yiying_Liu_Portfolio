@@ -12,6 +12,14 @@ Instead of using boring bullet points or monotomous pictures, I want to present 
 
 # Porfolio
 Here is where all of my cool data visualizations will go!
+## Week One
+### Revised Data Visulization
+#### Version 1 (Use Datawrapper)
+![version 1](https://datawrapper.dwcdn.net/oNCJU/1/)
+
+#### Vesion 2
+
+
 
 
 
