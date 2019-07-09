@@ -19,6 +19,7 @@ Here is where all of my cool data visualizations will go!
 
 
 #### Vesion 2
+![Presentation1(1)](https://user-images.githubusercontent.com/51921356/60906067-52138e80-a244-11e9-8966-c8a3f4be00ba.png)
 
 
 
