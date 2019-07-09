@@ -15,13 +15,11 @@ Here is where all of my cool data visualizations will go!
 ## Week One
 ### Revised Data Visulization
 #### Version 1  (Use Datawrapper)  
-<iframe title="Life-click" aria-label="Bar Chart" id="datawrapper-chart-oNCJU" src="//datawrapper.dwcdn.net/oNCJU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+
 
 
 #### Vesion 2
 ![Presentation1(1)](https://user-images.githubusercontent.com/51921356/60906067-52138e80-a244-11e9-8966-c8a3f4be00ba.png)
 
-
-
-
-
+<iframe title="Life-click" aria-label="Bar Chart" id="datawrapper-chart-oNCJU" src="//datawrapper.dwcdn.net/oNCJU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
