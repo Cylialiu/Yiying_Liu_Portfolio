@@ -15,7 +15,7 @@ Here is where all of my cool data visualizations will go!
 ## Week One
 ### Revised Data Visulization
 #### Version 1  (Use Datawrapper)
-![version 1](https://datawrapper.dwcdn.net/oNCJU/1/)
+!["version 1"](https://datawrapper.dwcdn.net/oNCJU/1/)
 
 #### Vesion 2
 
