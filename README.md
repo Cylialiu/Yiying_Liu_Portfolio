@@ -1,5 +1,5 @@
 # Yiying_Liu_Portfolio
-This is my public porfolio for the Telling Stories with Data class at CMU!
+This is my public porfolio for the Telling Stories with Data class at CMU! link to this: https://cylialiu.github.io/Yiying_Liu_Portfolio/
 
 # About me
 Hello! My name is Yiying Liu. I am from China. I like to be referred to with she, her, and hers pronouns.I am heading to the second year MSPPM program. I plan to do a job with analysis and data when I graduate, whcih is the trend today.   
