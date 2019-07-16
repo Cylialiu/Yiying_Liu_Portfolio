@@ -68,13 +68,13 @@ Since the audience of two situation are totally different and also for different
 ### Data visualization critique #2 
 #### Critique, part one
 ##### Google Form
-* **What visualization are you ranking? Provide the title and web-accessible URL. **
+**What visualization are you ranking? Provide the title and web-accessible URL.**
 Obama job loss chart https://eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png
 
 * **Usefulness. Is it useful for the intended audience? Does it communicate valuable information?** 
 Useless	( )	( )	( )	( )	( )	( )	( )	( )	(9)	( )	Very useful
 
-* **Completeness. Does the visualization have everything necessary to make it understandable? **
+* **Completeness. Does the visualization have everything necessary to make it understandable?**
 No relevant data	( )	( )	( )	( )	( )	( )	( )	(8)	( )	( )	All relevant data
 
 * **Perceptibility. Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use illogical comparisons?**
