@@ -110,3 +110,4 @@ Firstly, I changed the chart from colunn one to line chart. Since the point of t
 Secondly, I combine the two administration in one chart to show the difference in a clear way. Instead of using the exsit date, I changed to use the "1st month, 5th month" in the period we chose to compare. I also add the exact date at the beginning and the end of lines, which could provide clear information to people who are not familiar with background. I keep the color and negative number axis. These are great design, since most people think "increase line" means better!
 All in all, I think after my change, the chart becomes clean and focus, which can show the points well.
 
+*Source:https://medium.com/data-and-society/data-visualization-critique-b29155125261
