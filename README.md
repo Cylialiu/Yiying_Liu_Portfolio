@@ -63,3 +63,47 @@ As an anlayst working for the DHS, I cover the most important data that I think 
 Since the audience of two situation are totally different and also for different purpose, I seprately chose different data set, color scheme and chart style. More colorful and lively for a website, but mor professional and simple for the government report. My concern is that my inforgraph is more like a sole summary, not a chart embeded in the article. I might prefer using them in a presentation. All in all, I did some research and tried some styles and I think these two are pretty appropriate.  
 
 *Source: Report from the Department of Homeland Security's Office of Inspector General on dangerous overcrowding and prolonged detention of children and adults:https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf*
+
+
+### Data visualization critique #2 
+#### Critique, part one
+##### Google Form
+**What visualization are you ranking? Provide the title and web-accessible URL. *
+Obama job loss chart https://eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png
+
+Usefulness. Is it useful for the intended audience? Does it communicate valuable information? 
+Useless	( )	( )	( )	( )	( )	( )	( )	( )	(9)	( )	Very useful
+
+**Completeness. Does the visualization have everything necessary to make it understandable? *
+
+No relevant data	( )	( )	( )	( )	( )	( )	( )	(8)	( )	( )	All relevant data
+
+**Perceptibility. Can the reader understand the information with minimal effort? Is the visualization type appropriate? Does it use illogical comparisons?**
+Unclear and difficult	( )	( )	( )	(4)	( )	( )	( )	( )	( )	( )	Clear and easy
+
+**Truthfulness. Is the visualization accurate, reliable and valid? Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?** 
+Innacurate and / or invalid	( )	( )	( )	( )	( )	( )	( )	( )	( )	(10)	Accurate and valid
+
+**Intuitiveness. Is it easy to understand and clearly communicates the information? If unfamiliar, does it include easy to understand instructions on how to interpret it?** 	
+Unfamiliar, difficult to understand	( )	( )	( )	( )	(5)	( )	( )	( )	( )	( )	Familiar, easy to understand
+
+**Aesthetics. It is interesting / enjoyable to look at? Is it a good example of what a beautiful data visualization might look like? Is it somewhere in the middle - pleasing but otherwise not distracting to look at?** 
+	1	2	3	4	5	6	7	8	9	10	
+Ugly 	( )	( )	( )	( )	( )	( )	( )	(8)	( )	( )	Beautiful
+
+**Engagement. Does it lead the audience to learn more about the topic? Does it inspire the audience to talk about the data or share it with others?**
+	1	2	3	4	5	6	7	8	9	10	
+Distracts from data	( )	( )	( )	( )	( )	( )	( )	( )	(9)	( )	Draws one into the data
+
+**Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?**
+The first impression is that it is a comparison of job loss between Obama and Bush administration. The “Bikini” shape stood out to me, but since it is not like traditional column chart, it is a little bit confusing. I think they use the negative number to show the different trend worked really well, and also the potential meaning of the color “blue vs red” which points two parties. However, it took me some time to figure out the x-axis is at the top, and I need to read the chart from left to right. Since I am not familiar with the background, neither this new form chart, I think it is not obvious to see. I think I would use line chart to show the difference trend between two administrations, which is clear and simple.
+
+**Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?**
+Voters and politician. I think it is pretty effective to reaching the audience. Since it clearly shows the different job loss trend between Obama and Bush government. Based on the real data, they use the color, style and the negative number in a smart way, which presents a powerful positive idea on Obama government
+
+**Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)**
+This method is comprehensive and covers the main points of the data visualization. I think if only considering this chart, there are some derived meaning and also take advantage of these features to be a tool of politics, which means data visualization would not always be objective, different perspective would create different result. I think this one could be measured too. I want to change the type of chart to line chart and label would be more clear. Comparing with the measures from Good charts, this method is quite different and score-based. The process from Good charts are more feeling and subject-based. I think both are useful and have their advantages. I think if would be better if we can coombine these two. Firstly, we can use the Stephen Few's method to go through the points and give a score, and then based on these measures go back to the questions form Good Charts and give some reasons. 
+
+#### My recreation 
+
+
