@@ -32,6 +32,25 @@ Here is where all of my cool data visualizations will go!
 ### OIG data visualization 
 #### As a Data journalist
 <div class="infogram-embed" data-id="eefc6984-1f11-426c-b4cc-92492a049c81" data-type="interactive" data-title="Busy Charts"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/eefc6984-1f11-426c-b4cc-92492a049c81" style="color:#989898!important;text-decoration:none!important;" target="_blank">Busy Charts</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+##### Analysis
+This inforgraphic covers the most important data that I think a "general audience" of Newsweek website would be interested. Here is my detailed analysis:  
+* "General audience": I define the general audience would be the readers of a news website: Newsweek. [newsletter](https://www.newsweek.com/). In my opinion, as readers of new media, most people would like to get the key information as soon as possible. Using attached inforgraphic, icons, emphasizing numbers in the article would be helpful for readers to understand and also catch their eyes or it also can be a berif summary of the article. 
+
+* Data choice: The data I chose is that the section of "At-Risk Populations are Subject to Overcrowding and Prolonged Detention in Border Patrol Facilities". As a normal reader, they might have no understanding of the scale of "how many people across the boarder illegally". Instead, if provide some small daily issue, such as no access to shower, hot food, and being detention more than 7 days. 
+The readers would understand the serious situation sooner and also arouse their sympathy. 
+
+* Color choice and composing:
+  * I use yellow, the bright color to attract reader's eyes and also a sign of emergency. Choose black color and white text show a good contrast with yellow and also emphase the most important content part.   
+  * I use "child" icon and "shower, clothes, hot meals" icons. I think using simplify icons could express much information in a simple way and also leave people a clear impression. One thing I am not satisfied is that I tried to put the "delete icon" above the "shower" one, but it looks a chaos. I doubt the way I am using now might be misunderstood by so quick readers, but I have no idea how to fix it for now.
+  * The background picture I chose from the Newsweek website and blur it, which could have a nice contrast with the context.
+
+Summary: All in all, I create this inforgraphic in a freshing and "magazine" style and summary a part of data from the article. 
+
+
 
 #### As an analyst working for the Department of Homeland Security
 <div class="infogram-embed" data-id="4b786565-4ae7-4a5e-bc49-a2be90020a9d" data-type="interactive" data-title="Neon Maps"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4b786565-4ae7-4a5e-bc49-a2be90020a9d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Neon Maps</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+
+  Talk about how the visualizations and audiences compare / contrast to one another. Make sure you include all source information and explain the data well.  
