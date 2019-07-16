@@ -62,4 +62,4 @@ As an anlayst working for the DHS, I cover the most important data that I think 
 #### Compare / contrast
 Since the audience of two situation are totally different and also for different purpose, I seprately chose different data set, color scheme and chart style. More colorful and lively for a website, but mor professional and simple for the government report. My concern is that my inforgraph is more like a sole summary, not a chart embeded in the article. I might prefer using them in a presentation. All in all, I did some research and tried some styles and I think these two are pretty appropriate.  
 
-Source: Report from the Department of Homeland Security's Office of Inspector General on dangerous overcrowding and prolonged detention of children and adults:https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf
+*Source: Report from the Department of Homeland Security's Office of Inspector General on dangerous overcrowding and prolonged detention of children and adults:https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf*
