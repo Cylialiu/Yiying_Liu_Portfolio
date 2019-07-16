@@ -105,5 +105,9 @@ Voters and politician. I think it is pretty effective to reaching the audience. 
 This method is comprehensive and covers the main points of the data visualization. I think if only considering this chart, there are some derived meaning and also take advantage of these features to be a tool of politics, which means data visualization would not always be objective, different perspective would create different result. I think this one could be measured too. I want to change the type of chart to line chart and label would be more clear. Comparing with the measures from Good charts, this method is quite different and score-based. The process from Good charts are more feeling and subject-based. I think both are useful and have their advantages. I think if would be better if we can coombine these two. Firstly, we can use the Stephen Few's method to go through the points and give a score, and then based on these measures go back to the questions form Good Charts and give some reasons. 
 
 #### My recreation 
+![job loss](https://user-images.githubusercontent.com/51921356/61310308-0c197600-a7c2-11e9-8d34-9d1e43850841.png)
 
+Firstly, I changed the chart from colunn one to line chart. Since the point of the chart is to show the different trend along time,  period, using line chart would be better to show the trend than column.  
+Secondly, I combine the two administration in one chart to show the difference in a clear way. Instead of using the exsit date, I changed to use the "1st month, 5th month" in the period we chose to compare. I also add the exact date at the beginning and the end of lines, which could provide clear information to people who are not familiar with background. I keep the color and negative number axis. These are great design, since most people think "increase line" means better!
+All in all, I think after my change, the chart becomes clean and focus, which can show the points well.
 
