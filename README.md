@@ -111,3 +111,9 @@ Secondly, I combine the two administration in one chart to show the difference i
 All in all, I think after my change, the chart becomes clean and focus, which can show the points well.
 
 *Source:https://medium.com/data-and-society/data-visualization-critique-b29155125261
+
+
+
+## Week 3
+
+[some text here](/portfolio support.md)
