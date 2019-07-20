@@ -116,4 +116,4 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 
 ## Week 3
 
-[some text here](/Portolio Supporter.md)
+[Week 3 project](/Portolio Supporter.md)
