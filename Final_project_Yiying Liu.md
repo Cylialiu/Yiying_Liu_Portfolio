@@ -10,7 +10,28 @@
   * Dicuss other exsiting and potential solutions and future prospect of the industry.   
 
 ## Initial sketches
+Here is my initial thoughts and some chart type I might choose in my final project. I want to emphasize the User stories part, since it would be powerful and easily to bond with audience. 
 ![Drawing](https://user-images.githubusercontent.com/51921356/61593519-60e83280-abae-11e9-8379-28f66540b4d4.png)
+![Drawing(2)](https://user-images.githubusercontent.com/51921356/61593697-f389d100-abb0-11e9-85cc-cef956059adb.png)
+![Drawing(3)](https://user-images.githubusercontent.com/51921356/61593698-f389d100-abb0-11e9-93a9-570aa73e1c97.png)
+
+
+## Data Source and Method 
+For the qantitative data set, I will grasp different data set from many websites. There are some sources I would like to use:
+  * Background and basic description:
+  ** Substance Abuse Statistics by State: https://www.drugabuse.gov/drugs-abuse/opioids/opioid-summaries-by-state
+  ** Costs of Substance Abuse; Nationwide Alcohol and Drug Trends; Substance Abuse Treatment
+ https://drugabuse.com/statistics-data/
+  ** Overdose Death Rates
+  https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
+  ** Basic descrption:
+  https://americanaddictioncenters.org/rehab-guide/addiction-statistics
+For the stories, I will summarize and rewrite the real stories we interviewed before during my intern. There are most sad stories, and I will hide their personal information to ensure they will not be identified.   
+For the solutions and prospect, I plan to summarize the existing data and result from our company's report and some ideas. 
+
+### Method
+I plan to use shorthand to create a web page. Morevoer, I will also combine all the tools and platform we have learned from the class to help my project.
+
 
   
   
