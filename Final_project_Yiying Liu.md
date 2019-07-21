@@ -26,8 +26,8 @@ For the qantitative data set, I will grasp different data set from many websites
   https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
     * Basic descrption:
   https://americanaddictioncenters.org/rehab-guide/addiction-statistics
-For the stories, I will summarize and rewrite the real stories we interviewed before during my intern. There are most sad stories, and I will hide their personal information to ensure they will not be identified.   
-For the solutions and prospect, I plan to summarize the existing data and result from our company's report and some ideas. 
+* For the stories, I will summarize and rewrite the real stories we interviewed before during my intern. There are most sad stories, and I will hide their personal information to ensure they will not be identified.   
+* For the solutions and prospect, I plan to summarize the existing data and result from our company's report and some ideas. 
 
 ### Method
 I plan to use shorthand to create a web page. Morevoer, I will also combine all the tools and platform we have learned from the class to help my project.
