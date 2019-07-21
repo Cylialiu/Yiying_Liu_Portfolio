@@ -10,6 +10,7 @@
   * Dicuss other exsiting and potential solutions and future prospect of the industry.   
 
 ## Initial sketches
+![Drawing](https://user-images.githubusercontent.com/51921356/61593519-60e83280-abae-11e9-8379-28f66540b4d4.png)
 
   
   
