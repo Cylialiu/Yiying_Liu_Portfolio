@@ -8,6 +8,7 @@
   * Summarize some common factors that would influence people's craving level and bring up the hypothesis.
   * Solutions based on our company's idea: a digital motivation platform using human computer interaction data, digital dashboards and predictive algorithms to help people stay sober from substance use disorders.
   * Dicuss other exsiting and potential solutions and future prospect of the industry.   
+
 ## Initial sketches
 
   
