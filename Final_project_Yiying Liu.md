@@ -19,12 +19,12 @@ Here is my initial thoughts and some chart type I might choose in my final proje
 ## Data Source and Method 
 For the qantitative data set, I will grasp different data set from many websites. There are some sources I would like to use:
   * Background and basic description:
-  ** Substance Abuse Statistics by State: https://www.drugabuse.gov/drugs-abuse/opioids/opioid-summaries-by-state
-  ** Costs of Substance Abuse; Nationwide Alcohol and Drug Trends; Substance Abuse Treatment
+    * Substance Abuse Statistics by State: https://www.drugabuse.gov/drugs-abuse/opioids/opioid-summaries-by-state
+    * Costs of Substance Abuse; Nationwide Alcohol and Drug Trends; Substance Abuse Treatment
  https://drugabuse.com/statistics-data/
-  ** Overdose Death Rates
+    * Overdose Death Rates
   https://www.drugabuse.gov/related-topics/trends-statistics/overdose-death-rates
-  ** Basic descrption:
+    * Basic descrption:
   https://americanaddictioncenters.org/rehab-guide/addiction-statistics
 For the stories, I will summarize and rewrite the real stories we interviewed before during my intern. There are most sad stories, and I will hide their personal information to ensure they will not be identified.   
 For the solutions and prospect, I plan to summarize the existing data and result from our company's report and some ideas. 
