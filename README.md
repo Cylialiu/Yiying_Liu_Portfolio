@@ -117,3 +117,6 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 ## Week 3
 
 [Week 3 project](/Portolio Supporter.md)
+
+##Final Project
+[Final Project](/Final_project_Yiying Liu.md)
