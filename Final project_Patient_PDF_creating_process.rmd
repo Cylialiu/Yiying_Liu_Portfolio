@@ -1,1 +1,10 @@
+## Main Visualization Part 2: Customized personal monthly/weekly data visualization
+As one of the most important part of the solution: an innovative platform tracking the key personal physical signals to help customers to learn their behavioral and physiological patterns, so that they (and their support networks) know when they need additional internal and external motivation. We plan to utilize sleep, motion and physiological data to identify risk and create a proactive early warning system to prevent relapse.   
+
+
+Considering our product is still under research and design process, I did not get the "real data" from customers. All the data I use for this project are "test data" created by myself. The purpose is to show the interface design for the monthly data learning process and weekly report for our patient. We plan to create the report based on customers' personal data and send them by email or send to their treatment center. Based on their weekly data and performance, they could consider some changes for next week in order to stay sober for a longer time.
+
+Many papers point out that stress level, plays a significant role in interacting with multiple social, individual and biological factors which impact addiction recovery process[Rajita Sinha,2009](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2734447/). Moreover, many researchers prove that EDA(Electrodermal activity) is excellent 
+
+there are too many potential signals, for this data visualization, I just chose the three most important ones: sleep, steps and  manually entered mood data, to find out the raltionship with EDA((Electrodermal activity), which can reflect stress level. 
 
