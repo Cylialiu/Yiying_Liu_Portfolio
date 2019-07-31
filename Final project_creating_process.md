@@ -1,5 +1,7 @@
 ## Main Visualization Part1: Three drug users' true stories
-All stories I found are from open source and I site the original source. Here I just post their drug using journey chart. The full text would be appear in my shorthand story.
+All stories I found are from open websites and I site the original source. Here I just post one example of one person's journey chart. 
+[One Son, 4 overdose, 6 hours](https://www.nytimes.com/2018/01/21/us/opioid-addiction-treatment-families.html)
+The full text would be appear in my shorthand story.
 
 ### First version 
 ![8aca4467-2095-4107-9114-e0f3beccb1b3(1)](https://user-images.githubusercontent.com/51921356/62228497-c34de980-b38b-11e9-9eb3-e1bc8e5cb563.jpeg)
