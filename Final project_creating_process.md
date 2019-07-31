@@ -21,6 +21,8 @@ I collect some most useful opinions and recreate the following one:
 ### New try
 ![8aca4467-2095-4107-9114-e0f3beccb1b3(2)](https://user-images.githubusercontent.com/51921356/62232432-30657d00-b394-11e9-9613-ccad8b423dc0.jpeg)
 
+Based on the feedback, I add some icons and also change the color combination. But I am concern if it is not serious enough. 
+
 ## Main Visualization Part 2: Customized personal monthly/weekly data visualization
 As one of the most important part of the solution: an innovative platform tracking the key personal physical signals to help customers to learn their behavioral and physiological patterns, so that they (and their support networks) know when they need additional internal and external motivation. We plan to utilize sleep, motion and physiological data to identify risk and create a proactive early warning system to prevent relapse.   
 
