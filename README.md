@@ -120,3 +120,4 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 
 ## Final Project
 [Final Project](/Final_project_Yiying Liu.md)
+[project_Patient_PDF_creating_process](/Final project_Patient_PDF_creating_process.rmd)
