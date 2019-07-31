@@ -9,7 +9,38 @@ Many papers point out that stress level, plays a significant role in interacting
 However, there are too many potential signals, for this project, I just chose the three most important ones: sleep, steps and  manually entered mood data, to show the possible raltionship with EDA. 
 
 ### First version of the PDF report from our design team
-This version is designed from our design team and we collected some feedback by interviewing treatment center patients, threapsit, addiction user family members and other people. 
+This version is designed from our design team and we collected some feedback by interviewing treatment center patients, threapsit, addiction user family members and other people. Based on all these feedbacks, I recreated the main chart of the pdf and hope it could be a useful comteporary for the main PDF report. 
 
 #### First version:
+<img width="584" alt="1 version 1" src="https://user-images.githubusercontent.com/51921356/62174417-e1720600-b307-11e9-864d-0007c929c80f.PNG">
+<img width="568" alt="1st version 2" src="https://user-images.githubusercontent.com/51921356/62174412-dd45e880-b307-11e9-9a47-2f4eeb774bdf.PNG">
+<img width="539" alt="1 version 3" src="https://user-images.githubusercontent.com/51921356/62174413-dd45e880-b307-11e9-9893-98f7d10c6282.PNG">
+
+Basically, the weekly report contains the key signals for customer's week performance, including, heartrate, sleep data, steps, EDA. Based on all these infor, we provide some suggestions at the last part. 
+
+### Research Protocol
+In order to have a better understanding of the what contents and style of visualization wouuld be more useful for our targets, we asked those questions:
+1. How often would you say you normally go on the internet?
+2. What’s the biggest challenge about being in recovery?
+3. What sorts of things make it easier?
+4. What do you like best about this product?
+7.Is the meaning of each picture clear to you? What kind of information can you get when you first see that?
+8. How did you like the way the text was phrased?
+9. Do you think this product would be helpful to you?
+10. Is there anything missing that you think would be useful?
+11. Any changes you would make to it?
+
+We got many informative and useful feedbacks from different targets. Here I list the ones I think are most helpful:
+(All feedbacks are from our company internal note)
+1. **Want to see that certain activities lead to reduced stress (meditation, dog walk, spiritual activities, therapy, breathing exercises, going to a narcotics meeting, going to church, eating well, exercising) - her friend ate poorly and didn’t exercise and watched too much TV and ended up relapsing even though he was going to meetings**  
+I think it is a really good point that it is possible that there are some potential triggers of our stress level and cravings. Combining the specific daily activity with stress level would be important for people to figure out when they should pay attention, or what kind of activity would be helpful with their stress level decrease.  
+2. **Fuse the sleep and heartrate and steps graphs with the stress graph, steps graph and sleep info alone isn’t useful unless it is tied to the stress ratings**     
+This is definitely one of the pain point we should pay attention to. Since we are creating a special product for a group of people with special needs, our product should provide different report or weekly dashboard from normal wearable devices. Most times, people know if they slept well or walked a lot yesterday, but they may have no idea what the relationship between these activities and their stress level. My boss once gave us an example that a guy never notived that he always felt stressful when he talked with his mom. By utilizing the product, we want to find these kinds of "ignored risk" activities.  
+3. **Want more specific sleep recommendations- don’t just say your sleep quality is improved, she wants to know why it is improved - maybe some activity led to it improving sleep**  
+This feedback reminds me the idea my TA MattFochs' final project. He used Alluvial diagram to combine his sleep partern with his spending habit. Therefore, I consider if I can also try to combine the different signal with EDA by using alluvial diagram, which might be helpful to solve the problem. 
+
+
+
+
+
 
