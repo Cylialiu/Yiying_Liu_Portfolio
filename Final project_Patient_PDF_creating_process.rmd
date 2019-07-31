@@ -6,4 +6,10 @@ Considering our product is still under research and design process, I did not ge
 
 Many papers point out that stress level, plays a significant role in interacting with multiple social, individual and biological factors which impact addiction recovery process[Rajita Sinha,2009](https://www.ncbia.nlm.nih.gov/pmc/articles/PMC2734447/). Moreover, many researchers prove that EDA(Electrodermal activity) is excellent in assessing stress level. In 2017, [Roberto Zangróniz](https://www.mdpi.com/1424-8220/17/10/2324/pdf)and his team found out that the wearable device solely based on EDA signal reports 89% accuracy when distinguishing calm condition from distress condition. By using wearable devices and analyse customer's EDA data and other physical signals to predict potential relapse risk, and provide customized precaution measurements is the main idea for our solution.
 
-However, there are too many potential signals, for this project, I just chose the three most important ones: sleep, steps and  manually entered mood data, to find out the raltionship with EDA. 
+However, there are too many potential signals, for this project, I just chose the three most important ones: sleep, steps and  manually entered mood data, to show the possible raltionship with EDA. 
+
+### First version of the PDF report from our design team
+This version is designed from our design team and we collected some feedback by interviewing treatment center patients, threapsit, addiction user family members and other people. 
+
+#### First version:
+
