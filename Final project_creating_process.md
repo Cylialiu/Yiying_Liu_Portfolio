@@ -1,3 +1,4 @@
+
 ## Main Visualization Part1: Three drug users' true stories
 All stories I found are from open websites and I site the original source. Here I just post one example of one person's journey chart. 
 [One Son, 4 overdose, 6 hours](https://www.nytimes.com/2018/01/21/us/opioid-addiction-treatment-families.html)
@@ -44,7 +45,11 @@ This version is designed from our design team and we collected some feedback by 
 Basically, the weekly report contains the key signals for customer's week performance, including, heartrate, sleep data, steps, EDA. Based on all these infor, we provide some suggestions at the last part. 
 
 ### Research Protocol
-In order to have a better understanding of the what contents and style of visualization wouuld be more useful for our targets, we asked those questions:
+Target audience: Local treatment centers which are suffering high drop out rate. However, since it is a pretty new and innovative idea, we covered different stakeholders, including therapist, drug user patients, family members and some students who are studying healthcare or drug addiction research, and we want to get broader feedbacks from them.
+
+The approach we chose to interview is limited. We chose patients and therapists where we have connection with and also which treatment center allowed us to have interviews. 
+
+In order to have a better understanding of the what contents and style of visualization would be more useful for our targets, we asked those questions:
 1. How often would you say you normally go on the internet?
 2. What’s the biggest challenge about being in recovery?
 3. What sorts of things make it easier?
