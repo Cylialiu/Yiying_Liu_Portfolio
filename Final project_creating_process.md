@@ -2,6 +2,20 @@
 All stories I found are from open source and I site the original source. Here I just post their drug using journey chart. The full text would be appear in my shorthand story.
 
 ### First version 
+![8aca4467-2095-4107-9114-e0f3beccb1b3(1)](https://user-images.githubusercontent.com/51921356/62228497-c34de980-b38b-11e9-9eb3-e1bc8e5cb563.jpeg)
+
+I create this version based on the story from New York Times. To better understand the better style of the visualization, I ask some people and also my boss. Here are some questions:
+1. Before you read the story text, what do you get from the chart?
+2. After you read the story, do you think the chart get the key experience happening to him?
+3. What do you think about the color scheme and the phrasing style?
+4. Anything change you would recommend?
+
+I collect some most useful opinions and recreate the following one:
+1. Highlight the age, since they are all so young.
+2. Try use some icons to show their repetitive journey.
+3. Use different color to distinguish getting better and getting worse.
+
+![8aca4467-2095-4107-9114-e0f3beccb1b3](https://user-images.githubusercontent.com/51921356/62228483-ba5d1800-b38b-11e9-9043-05fac1ea74fc.png)
 
 ## Main Visualization Part 2: Customized personal monthly/weekly data visualization
 As one of the most important part of the solution: an innovative platform tracking the key personal physical signals to help customers to learn their behavioral and physiological patterns, so that they (and their support networks) know when they need additional internal and external motivation. We plan to utilize sleep, motion and physiological data to identify risk and create a proactive early warning system to prevent relapse.   
