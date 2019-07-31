@@ -1,3 +1,8 @@
+## Main Visualization Part1: Three drug users' true stories
+All stories I found are from open source and I site the original source. Here I just post their drug using journey chart. The full text would be appear in my shorthand story.
+
+### First version 
+
 ## Main Visualization Part 2: Customized personal monthly/weekly data visualization
 As one of the most important part of the solution: an innovative platform tracking the key personal physical signals to help customers to learn their behavioral and physiological patterns, so that they (and their support networks) know when they need additional internal and external motivation. We plan to utilize sleep, motion and physiological data to identify risk and create a proactive early warning system to prevent relapse.   
 
