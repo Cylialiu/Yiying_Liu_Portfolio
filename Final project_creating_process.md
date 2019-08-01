@@ -20,7 +20,7 @@ I collect some most useful opinions and recreate the following one:
 
 
 ### New try
-![8aca4467-2095-4107-9114-e0f3beccb1b3(2)](https://user-images.githubusercontent.com/51921356/62232432-30657d00-b394-11e9-9613-ccad8b423dc0.jpeg)
+![e599278f-9a74-41d1-899c-c8d2ad440e54](https://user-images.githubusercontent.com/51921356/62295933-226b3700-b43c-11e9-9152-d5bd2198b6c6.jpeg)
 
 Based on the feedback, I add some icons and also change the color combination. But I am concern if it is not serious enough. 
 
