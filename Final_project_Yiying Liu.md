@@ -50,5 +50,11 @@ The key change I made is that I tried to combine the physical data(like heartrat
 3. Data and techonology is the trend, I believe. However, there are lots of things that data cannot tell. The most impressive I had with one of the counselor is that she mentioned many times, the patients do not need to tell her, she just knows that these people are not ready and will relapse some day in the future. She cannot explain clearly why she thought about that. It is a "human feeling" and "recognition" that neither machine or data could tell. That is why maybe doctors, teachers and other positions connecting with Human, cannot be replaced with robots. 
 4. We want this would be a tool for treatment center and targets to refer. It is like the weather report. We all know it always make mistakes, but as a daily reference, we combine the result of weather report and our body feelings to decide if I need to wear more tomorrow morning. Any tool,app,or devices nowadays would not be irreplacable or essential. In the future, if just one person by using this tool to aviod his relapse, or aviod overdose, that would be our success. For us, it is just a one, but for him, his family that would be 100%.
   
-  
+## Final project creating process and the final shorthand website
+[Wireframe_for_final_project](/Wireframe_for_final_project.md)
+
+[Final project_creating_process.md](/Final project_creating_process.md)
+
+[Final project shorthand](https://carnegiemellon.shorthandstories.com/yiying_liu_telling_story_withdata/index.html)
+
 
