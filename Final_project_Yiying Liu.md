@@ -32,7 +32,7 @@ For the qantitative data set, I will grasp different data set from many websites
 ### Method
 I plan to use shorthand to create a web page. Morevoer, I will also combine all the tools and platform we have learned from the class to help my project.
 
-**Target Audience**
+## Target Audience
 The target audience will be focus on two groups of people:
 1.	Treatment centers in Greater Pittsburgh Region. 
 There are more than 20 mature treatment centers in this area. Most of them are facing with problems on low customer retention, high staff turnover and are seeking more effective measurements for drug recovery. The technology could be used for in patient program to help therapist to track patients’ conditions more accurately and comprehensively. Discovering potential leaving early risk and signals, treatment staff could provide corresponding measures to patients.
@@ -41,7 +41,7 @@ For many addicts, treatment is a lifelong process, and getting out of rehab is j
 
 Based on the statistics, citing data from the Pennsylvania Coroners Association, Allegheny County's 2015 fatal overdose rate from all drugs was 33.6 per 100,000 people, nearly double the national rate. In 2017 there are 5000 people in all of Pennsylvania who died from overdoses.  Many of them are lack of condition or with concerns in joining treatment centers. For example, most single mother addicts considering their children would not participate any treatments. The technology would combine with their self-report data creating a customized report to help them adjust their daily routine and stress level to keep sober on their own. 
 
-**Final Thoughts**
+# Final Thoughts
 The whole project is based on the idea from the start-up comapny I worked this summer. As a key of the product design and research: data visualization for personal weekly dashboard, I take the advantage of the course to brainstorm and tried different types of charts. I get a lot of help from Matt, our TA and get inspired for the final alluvial diagrams. I also ask many advice from my boss, collegues and also get a lot of feedbacks from the true drug users in the treatment centers throught interviews. All the ideas seems too new and too much for them to understand at this stage. However, as a CMU student, I believe technology and data will lead the trend, even the revolution in this relative traditional industry in the near future. 
 
 The key change I made is that I tried to combine the physical data(like heartrate, steps or EDA score) with the daily activities helping people to figure out their own behavior patterns. There are some takeways,some concerns and future plans:
@@ -50,7 +50,7 @@ The key change I made is that I tried to combine the physical data(like heartrat
 3. Data and techonology is the trend, I believe. However, there are lots of things that data cannot tell. The most impressive I had with one of the counselor is that she mentioned many times, the patients do not need to tell her, she just knows that these people are not ready and will relapse some day in the future. She cannot explain clearly why she thought about that. It is a "human feeling" and "recognition" that neither machine or data could tell. That is why maybe doctors, teachers and other positions connecting with Human, cannot be replaced with robots. 
 4. We want this would be a tool for treatment center and targets to refer. It is like the weather report. We all know it always make mistakes, but as a daily reference, we combine the result of weather report and our body feelings to decide if I need to wear more tomorrow morning. Any tool,app,or devices nowadays would not be irreplacable or essential. In the future, if just one person by using this tool to aviod his relapse, or aviod overdose, that would be our success. For us, it is just a one, but for him, his family that would be 100%.
   
-## Final project creating process and the final shorthand website
+# Final project creating process and the final shorthand website
 [Wireframe_for_final_project](/Wireframe_for_final_project.md)
 
 [Final project_creating_process.md](/Final project_creating_process.md)
