@@ -119,12 +119,8 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 [Week 3 project](/Portolio Supporter.md)
 
 
-
+## Final project
 [Final Project](/Final_project_Yiying Liu.md)  
-
-[Wireframe_for_final_project](/Wireframe_for_final_project.md)
-
-[Final project_creating_process.md](/Final project_creating_process.md)
 
 [Final project shorthand](https://carnegiemellon.shorthandstories.com/yiying_liu_telling_story_withdata/index.html)
 
