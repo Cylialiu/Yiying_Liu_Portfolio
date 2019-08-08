@@ -12,13 +12,15 @@ Instead of using boring bullet points or monotomous pictures, I want to present 
 
 # Porfolio
 Here is where all of my cool data visualizations will go!
+---
+
 ## Week One
 ### Revised Data Visulization
 
-#### Version 1  
+### Version 1  
 ![Presentation1(1)](https://user-images.githubusercontent.com/51921356/60906067-52138e80-a244-11e9-8966-c8a3f4be00ba.png)
 
-#### Vesion 2 (Use Datawrapper)
+### Vesion 2 (Use Datawrapper)
 
 <iframe title="Life-click" aria-label="Bar Chart" id="datawrapper-chart-oNCJU" src="//datawrapper.dwcdn.net/oNCJU/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="368"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>  
 
@@ -26,13 +28,14 @@ Here is where all of my cool data visualizations will go!
 #### Reference
 “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
 
+---
 
 ## Week Two
 
 ### OIG data visualization 
-#### As a Data journalist
+### As a Data journalist
 <div class="infogram-embed" data-id="eefc6984-1f11-426c-b4cc-92492a049c81" data-type="interactive" data-title="Busy Charts"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/eefc6984-1f11-426c-b4cc-92492a049c81" style="color:#989898!important;text-decoration:none!important;" target="_blank">Busy Charts</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
-##### Analysis
+#### Analysis
 This inforgraphic covers the most important data that I think a "general audience" of Newsweek website would be interested. Here is my detailed analysis:  
 * **"General audience"**: I define the general audience would be the readers of a news website: [Newsweek] (https://www.newsweek.com/). In my opinion, as readers of new media, most people would like to get the key information as soon as possible. Using attached inforgraphic, icons, emphasizing numbers in the article would be helpful for readers to understand and also catch their eyes or it also can be a berif summary of the article. 
 
@@ -48,7 +51,7 @@ The readers would understand the serious situation sooner and also arouse their 
 
 
 
-#### As an analyst working for the Department of Homeland Security
+### As an analyst working for the Department of Homeland Security
 <div class="infogram-embed" data-id="4b786565-4ae7-4a5e-bc49-a2be90020a9d" data-type="interactive" data-title="Neon Maps"></div><script>!function(e,t,s,i){var n="InfogramEmbeds",o=e.getElementsByTagName("script")[0],d=/^http:/.test(e.location)?"http:":"https:";if(/^\/{2}/.test(i)&&(i=d+i),window[n]&&window[n].initialized)window[n].process&&window[n].process();else if(!e.getElementById(s)){var r=e.createElement("script");r.async=1,r.id=s,r.src=i,o.parentNode.insertBefore(r,o)}}(document,0,"infogram-async","https://e.infogram.com/js/dist/embed-loader-min.js");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4b786565-4ae7-4a5e-bc49-a2be90020a9d" style="color:#989898!important;text-decoration:none!important;" target="_blank">Neon Maps</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ##### Analysis
@@ -64,6 +67,7 @@ Since the audience of two situation are totally different and also for different
 
 *Source: Report from the Department of Homeland Security's Office of Inspector General on dangerous overcrowding and prolonged detention of children and adults:https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf*
 
+---
 
 ### Data visualization critique #2 
 #### Critique, part one
@@ -113,11 +117,13 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 *Source:https://medium.com/data-and-society/data-visualization-critique-b29155125261
 
 
+---
 
 ## Week 3
 
 [Week 3 project](/Portolio Supporter.md)
 
+---
 
 ## Final project
 [Final Project](/Final_project_Yiying Liu.md)  
