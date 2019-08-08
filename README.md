@@ -143,6 +143,6 @@ The key change I made is that I tried to combine the physical data(like heartrat
 
 [Final project_creating_process.md](/Final project_creating_process.md)
 
-![Final project shorthand](https://carnegiemellon.shorthandstories.com/yiying_liu_telling_story_withdata/index.html)
+Final project shorthand:https://carnegiemellon.shorthandstories.com/yiying_liu_telling_story_withdata/index.html
 
 
