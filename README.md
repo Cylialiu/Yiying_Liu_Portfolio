@@ -118,24 +118,7 @@ All in all, I think after my change, the chart becomes clean and focus, which ca
 
 [Week 3 project](/Portolio Supporter.md)
 
-## Final Project
-**Target Audience**
-The target audience will be focus on two groups of people:
-1.	Treatment centers in Greater Pittsburgh Region. 
-There are more than 20 mature treatment centers in this area. Most of them are facing with problems on low customer retention, high staff turnover and are seeking more effective measurements for drug recovery. The technology could be used for in patient program to help therapist to track patients’ conditions more accurately and comprehensively. Discovering potential leaving early risk and signals, treatment staff could provide corresponding measures to patients.
-2.	Post-rehab needs and drug addicts who did not enroll treatment centers in Greater Pittsburgh Region. 
-For many addicts, treatment is a lifelong process, and getting out of rehab is just one step. However, according to the National Institute on Drug Abuse, between 40 and 60 percent of people recovering from drug addiction relapse.  Relapse is usually caused by exposure to people, places, things or emotions that remind people in recovery of substance abuse. These triggers cause intense craving or make people in recovery think they need drugs to cope.
 
-Based on the statistics, citing data from the Pennsylvania Coroners Association, Allegheny County's 2015 fatal overdose rate from all drugs was 33.6 per 100,000 people, nearly double the national rate. In 2017 there are 5000 people in all of Pennsylvania who died from overdoses.  Many of them are lack of condition or with concerns in joining treatment centers. For example, most single mother addicts considering their children would not participate any treatments. The technology would combine with their self-report data creating a customized report to help them adjust their daily routine and stress level to keep sober on their own. 
-
-**Final Thoughts**
-The whole project is based on the idea from the start-up comapny I worked this summer. As a key of the product design and research: data visualization for personal weekly dashboard, I take the advantage of the course to brainstorm and tried different types of charts. I get a lot of help from Matt, our TA and get inspired for the final alluvial diagrams. I also ask many advice from my boss, collegues and also get a lot of feedbacks from the true drug users in the treatment centers throught interviews. All the ideas seems too new and too much for them to understand at this stage. However, as a CMU student, I believe technology and data will lead the trend, even the revolution in this relative traditional industry in the near future. 
-
-The key change I made is that I tried to combine the physical data(like heartrate, steps or EDA score) with the daily activities helping people to figure out their own behavior patterns. There are some takeways,some concerns and future plans:
-1. "Indivisualized" is the key word that many counselors mentioned. People vary largely, from background to personalities. It seems hard to use a common parttern to "predict" their future risk, or behavior change. That is the balance we keep finding. In one way, it used meachine learning with some "pattern" signals to track people's behavior. In the other way, we also create the whole idea based on the customized data and design. There is a long way we should go, but introducing the techonology into the drug addiction field is the future.  
-2. The final alluvial diagram might be too complicated to understand especailly for new users. It is my biggest concern. 
-3. Data and techonology is the trend, I believe. However, there are lots of things that data cannot tell. The most impressive I had with one of the counselor is that she mentioned many times, the patients do not need to tell her, she just knows that these people are not ready and will relapse some day in the future. She cannot explain clearly why she thought about that. It is a "human feeling" and "recognition" that neither machine or data could tell. That is why maybe doctors, teachers and other positions connecting with Human, cannot be replaced with robots. 
-4. We want this would be a tool for treatment center and targets to refer. It is like the weather report. We all know it always make mistakes, but as a daily reference, we combine the result of weather report and our body feelings to decide if I need to wear more tomorrow morning. Any tool,app,or devices nowadays would not be irreplacable or essential. In the future, if just one person by using this tool to aviod his relapse, or aviod overdose, that would be our success. For us, it is just a one, but for him, his family that would be 100%.
 
 [Final Project](/Final_project_Yiying Liu.md)  
 
